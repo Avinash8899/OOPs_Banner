@@ -8,8 +8,7 @@ public class UC5{
         (String.join(" ","**     **","**     **","**       ","      ** ")),
         (String.join(" "," **   ** "," **   ** ","**       ","**     **")),
         (String.join(" ","   ***   ","   ***   ","**       ","  *****  ")),
-        };
-        
+        }; 
         for(int i=0;i<7;i++){
             System.out.println(line[i]);
         }
